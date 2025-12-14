@@ -1,0 +1,116 @@
+<?php
+session_start();
+require 'includes/config.php';
+
+$search = isset($_GET['search']) ? trim($_GET['search']) : '';
+$category = isset($_GET['category']) ? $_GET['category'] : '';
+$condition = isset($_GET['item_condition']) ? $_GET['item_condition'] : '';
+
+try {
+    $query = "SELECT p.*, u.username FROM products p JOIN users u ON p.seller_id = u.id WHERE p.status IN ('approved', 'available')";
+    $params = [];
+    
+    if (!empty($search)) {
+        $query .= " AND (p.title LIKE ? OR p.description LIKE ?)";
+        $params[] = "%$search%";
+        $params[] = "%$search%";
+    }
+    
+    if (!empty($category)) {
+        $query .= " AND p.category = ?";
+        $params[] = $category;
+    }
+    
+    if (!empty($condition)) {
+        $query .= " AND p.item_condition = ?";
+        $params[] = $condition;
+    }
+    
+    $stmt = $pdo->prepare($query);
+    $stmt->execute($params);
+    $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
+} catch (PDOException $e) {
+    error_log("Database error in search.php: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    $products = [];
+}
+?>
+
+<?php require 'includes/header.php'; ?>
+<div class="container my-4">
+    <h2 class="text-center">Search Products</h2>
+    <form method="GET" class="mb-4">
+        <div class="row g-3">
+            <div class="col-md-4">
+                <input type="text" class="form-control" name="search" placeholder="Search by title or description" value="<?php echo htmlspecialchars($search); ?>">
+            </div>
+            <div class="col-md-3">
+                <select class="form-control" name="category">
+                    <option value="">All Categories</option>
+                    <option value="polo" <?php echo $category == 'polo' ? 'selected' : ''; ?>>Polo</option>
+                    <option value="casual_shirt" <?php echo $category == 'casual_shirt' ? 'selected' : ''; ?>>Casual Shirt</option>
+                    <option value="formal_shirt" <?php echo $category == 'formal_shirt' ? 'selected' : ''; ?>>Formal Shirt</option>
+                    <option value="tshirt" <?php echo $category == 'tshirt' ? 'selected' : ''; ?>>T-Shirt</option>
+                    <option value="jeans" <?php echo $category == 'jeans' ? 'selected' : ''; ?>>Jeans</option>
+                    <option value="shorts" <?php echo $category == 'shorts' ? 'selected' : ''; ?>>Shorts</option>
+                    <option value="jacket" <?php echo $category == 'jacket' ? 'selected' : ''; ?>>Jacket</option>
+                    <option value="sweater" <?php echo $category == 'sweater' ? 'selected' : ''; ?>>Sweater</option>
+                    <option value="hoodie" <?php echo $category == 'hoodie' ? 'selected' : ''; ?>>Hoodie</option>
+                    <option value="trousers" <?php echo $category == 'trousers' ? 'selected' : ''; ?>>Trousers</option>
+                    <option value="shoes" <?php echo $category == 'shoes' ? 'selected' : ''; ?>>Shoes</option>
+                    <option value="hygiene" <?php echo $category == 'hygiene' ? 'selected' : ''; ?>>Hygiene</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <select class="form-control" name="item_condition">
+                    <option value="">All Conditions</option>
+                    <option value="new" <?php echo $condition == 'new' ? 'selected' : ''; ?>>New</option>
+                    <option value="like_new" <?php echo $condition == 'like_new' ? 'selected' : ''; ?>>Like New</option>
+                    <option value="excellent" <?php echo $condition == 'excellent' ? 'selected' : ''; ?>>Excellent</option>
+                    <option value="good" <?php echo $condition == 'good' ? 'selected' : ''; ?>>Good</option>
+                    <option value="used" <?php echo $condition == 'used' ? 'selected' : ''; ?>>Used</option>
+                    <option value="fair" <?php echo $condition == 'fair' ? 'selected' : ''; ?>>Fair</option>
+                    <option value="worn" <?php echo $condition == 'worn' ? 'selected' : ''; ?>>Worn</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary w-100">Search</button>
+            </div>
+        </div>
+    </form>
+    <div class="row g-3">
+        <?php if (empty($products)): ?>
+            <p class="text-center">No products found.</p>
+        <?php else: ?>
+            <?php foreach ($products as $product): ?>
+                <?php
+                $images = json_decode($product['images'], true);
+                $firstImage = !empty($images) ? htmlspecialchars($images[0]) : 'Uploads/default.jpg';
+                ?>
+                <div class="col-md-3">
+                    <div class="card h-100">
+                        <img src="<?php echo $firstImage; ?>" class="card-img-top" alt="<?php echo htmlspecialchars($product['title']); ?>">
+                        <div class="card-body">
+                            <h5 class="card-title"><?php echo htmlspecialchars($product['title']); ?></h5>
+                            <p class="card-text"><?php echo htmlspecialchars(substr($product['description'], 0, 100)) . '...'; ?></p>
+                            <p class="card-text"><strong>Price:</strong> $<?php echo number_format($product['price'], 2); ?></p>
+                            <p class="card-text"><strong>Category:</strong> <?php echo htmlspecialchars($product['category']); ?></p>
+                            <p class="card-text"><strong>Condition:</strong> <?php echo htmlspecialchars($product['item_condition']); ?></p>
+                            <p class="card-text"><strong>Seller:</strong> <?php echo htmlspecialchars($product['username']); ?></p>
+                            <a href="product.php?id=<?php echo $product['id']; ?>" class="btn btn-primary">View Details</a>
+                            <?php if (isset($_SESSION['role']) && $_SESSION['role'] == 'buyer'): ?>
+                                <button class="btn btn-outline-secondary wishlist-btn mt-2" data-product-id="<?php echo $product['id']; ?>">
+                                    <?php
+                                    $wishlistStmt = $pdo->prepare("SELECT id FROM wishlist WHERE buyer_id = ? AND product_id = ?");
+                                    $wishlistStmt->execute([$_SESSION['user_id'], $product['id']]);
+                                    echo $wishlistStmt->fetch() ? 'Remove from Wishlist' : 'Add to Wishlist';
+                                    ?>
+                                </button>
+                            <?php endif; ?>
+                        </div>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        <?php endif; ?>
+    </div>
+</div>
+<?php require 'includes/footer.php'; ?>

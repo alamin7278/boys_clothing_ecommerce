@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Second_Hand_Clothes_ERD">
+    <mxGraphModel dx="1500" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Users Table -->
+        <mxCell id="users" value="Users
+- id PK
+- role
+- username
+- password
+- email
+- nid
+- certificate
+- verified
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="250" as="geometry"/>
+        </mxCell>
+        
+        <!-- Products Table -->
+        <mxCell id="products" value="Products
+- id PK
+- seller_id FK
+- title
+- description
+- category
+- size
+- item_condition
+- price
+- images
+- laundry_memo
+- hygiene_verified
+- status
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="220" height="300" as="geometry"/>
+        </mxCell>
+
+        <!-- Orders Table -->
+        <mxCell id="orders" value="Orders
+- id PK
+- buyer_id FK
+- product_id FK
+- status
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="200" height="150" as="geometry"/>
+        </mxCell>
+
+        <!-- Returns Table -->
+        <mxCell id="returns" value="Returns
+- id PK
+- order_id FK
+- reason
+- status
+- admin_decision
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="200" height="180" as="geometry"/>
+        </mxCell>
+
+        <!-- Wishlist Table -->
+        <mxCell id="wishlist" value="Wishlist
+- id PK
+- buyer_id FK
+- product_id FK
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="200" height="120" as="geometry"/>
+        </mxCell>
+
+        <!-- Cart Table -->
+        <mxCell id="cart" value="Cart
+- id PK
+- buyer_id FK
+- product_id FK
+- quantity
+- added_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="200" height="120" as="geometry"/>
+        </mxCell>
+
+        <!-- Messages Table -->
+        <mxCell id="messages" value="Messages
+- id PK
+- sender_id FK
+- receiver_id FK
+- product_id FK
+- message
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="220" height="160" as="geometry"/>
+        </mxCell>
+
+        <!-- Payouts Table -->
+        <mxCell id="payouts" value="Payouts
+- id PK
+- seller_id FK
+- amount
+- status
+- transaction_number
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="200" height="150" as="geometry"/>
+        </mxCell>
+
+        <!-- Notifications Table -->
+        <mxCell id="notifications" value="Notifications
+- id PK
+- user_id FK
+- message
+- type
+- product_id FK
+- created_at
+- is_read" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="220" height="160" as="geometry"/>
+        </mxCell>
+
+        <!-- Addresses Table -->
+        <mxCell id="addresses" value="Addresses
+- id PK
+- user_id FK
+- full_name
+- address_line
+- city
+- postal_code
+- phone
+- created_at" style="shape=swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="220" height="200" as="geometry"/>
+        </mxCell>
+
+        <!-- Relationships -->
+        <mxCell id="rel_users_products" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="products"/>
+        <mxCell id="rel_users_orders" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="orders"/>
+        <mxCell id="rel_products_orders" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="products" target="orders"/>
+        <mxCell id="rel_orders_returns" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="orders" target="returns"/>
+        <mxCell id="rel_users_wishlist" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="wishlist"/>
+        <mxCell id="rel_products_wishlist" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="products" target="wishlist"/>
+        <mxCell id="rel_users_cart" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="cart"/>
+        <mxCell id="rel_products_cart" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="products" target="cart"/>
+        <mxCell id="rel_users_messages_sender" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="messages"/>
+        <mxCell id="rel_users_messages_receiver" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="messages"/>
+        <mxCell id="rel_products_messages" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="products" target="messages"/>
+        <mxCell id="rel_users_payouts" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="payouts"/>
+        <mxCell id="rel_users_notifications" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="notifications"/>
+        <mxCell id="rel_products_notifications" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="products" target="notifications"/>
+        <mxCell id="rel_users_addresses" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;html=1;" edge="1" parent="1" source="users" target="addresses"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

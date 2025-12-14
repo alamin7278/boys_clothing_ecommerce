@@ -1,0 +1,298 @@
+<?php
+/*
+session_start();
+require '../includes/config.php';
+
+// Restrict access to admin only
+if (!isset($_SESSION['user_id']) || $_SESSION['role'] != 'admin') {
+    error_log("Unauthorized access attempt to admin dashboard - Session ID: " . session_id() . ", Session: " . print_r($_SESSION, true), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    header("Location: /boys_clothing_ecommerce/login.php");
+    exit;
+}
+
+// Handle verification actions
+if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['action']) && isset($_SESSION['seller_id'])) {
+    $sellerId = $_POST['seller_id'];
+    $action = $_POST['action'];
+    $validActions = ['approve', 'reject'];
+
+    if (!in_array($action, $validActions)) {
+        $error = "Invalid action.";
+        error_log("Invalid action attempted: $action for seller ID: $sellerId", 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    } else {
+        try {
+            $status = $action == 'approve' ? 'approved' : 'rejected';
+            $stmt = $pdo->prepare("UPDATE users SET verified = ? WHERE id = ? AND role = 'seller'");
+            $stmt->execute([$status, $sellerId]);
+            $success = "Seller verification " . ($action == 'approve' ? 'approved' : 'rejected') . " successfully.";
+            error_log("Seller ID: $sellerId verification set to $status", 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+        } catch (PDOException $e) {
+            $error = "Database error: " . $e->getMessage();
+            error_log("Verification DB error: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+        }
+    }
+}
+
+// Fetch all sellers
+try {
+    $stmt = $pdo->prepare("SELECT id, username, email, nid, certificate, verified FROM users WHERE role = 'seller' ORDER BY created_at DESC");
+    $stmt->execute();
+    $sellers = $stmt->fetchAll(PDO::FETCH_ASSOC);
+} catch (PDOException $e) {
+    $error = "Database error fetching sellers: " . $e->getMessage();
+    error_log("Database error fetching sellers: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    $sellers = [];
+}
+
+// Count pending products
+try {
+    $stmt = $pdo->prepare("SELECT COUNT(*) as count FROM products WHERE status = 'pending'");
+    $stmt->execute();
+    $pendingCount = $stmt->fetch(PDO::FETCH_ASSOC)['count'];
+} catch (PDOException $e) {
+    $error = "Database error counting pending products: " . $e->getMessage();
+    error_log("Database error counting pending products: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    $pendingCount = 0;
+}
+?>
+
+<?php require '../includes/header.php'; ?>
+<div class="container my-4">
+    <h2 class="text-center">Admin Dashboard</h2>
+    <?php if (isset($error)): ?>
+        <div class="alert alert-danger"><?php echo htmlspecialchars($error); ?></div>
+    <?php elseif (isset($success)): ?>
+        <div class="alert alert-success"><?php echo htmlspecialchars($success); ?></div>
+    <?php endif; ?>
+    
+    <!-- Seller Verification Section -->
+    <div class="card p-4 mb-4">
+        <h4>Manage Sellers</h4>
+        <?php if (empty($sellers)): ?>
+            <p>No sellers found.</p>
+        <?php else: ?>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Username</th>
+                        <th>Email</th>
+                        <th>NID</th>
+                        <th>Certificate</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php foreach ($sellers as $seller): ?>
+                        <tr>
+                            <td><?php echo htmlspecialchars($seller['username']); ?></td>
+                            <td><?php echo htmlspecialchars($seller['email']); ?></td>
+                            <td>
+                                <?php if ($seller['nid']): ?>
+                                    <a href="/boys_clothing_ecommerce/<?php echo htmlspecialchars($seller['nid']); ?>" target="_blank">View NID</a>
+                                <?php else: ?>
+                                    Not uploaded
+                                <?php endif; ?>
+                            </td>
+                            <td>
+                                <?php if ($seller['certificate']): ?>
+                                    <a href="/boys_clothing_ecommerce/<?php echo htmlspecialchars($seller['certificate']); ?>" target="_blank">View Certificate</a>
+                                <?php else: ?>
+                                    Not uploaded
+                                <?php endif; ?>
+                            </td>
+                            <td>
+                                <?php echo ucfirst($seller['verified']); ?>
+                                <?php if ($seller['verified'] == 'pending'): ?>
+                                    <span class="text-warning">(Awaiting Approval)</span>
+                                <?php elseif ($seller['verified'] == 'rejected'): ?>
+                                    <span class="text-danger">(Rejected)</span>
+                                <?php elseif ($seller['verified'] == 'approved'): ?>
+                                    <span class="text-success">(Approved)</span>
+                                <?php endif; ?>
+                            </td>
+                            <td>
+                                <?php if ($seller['verified'] == 'pending'): ?>
+                                    <form action="" method="POST" style="display:inline;">
+                                        <input type="hidden" name="seller_id" value="<?php echo $seller['id']; ?>">
+                                        <input type="hidden" name="action" value="approve">
+                                        <button type="submit" class="btn btn-success btn-sm">Approve</button>
+                                    </form>
+                                    <form action="" method="POST" style="display:inline;">
+                                        <input type="hidden" name="seller_id" value="<?php echo $seller['id']; ?>">
+                                        <input type="hidden" name="action" value="reject">
+                                        <button type="submit" class="btn btn-danger btn-sm">Reject</button>
+                                    </form>
+                                <?php else: ?>
+                                    <span class="text-muted">No actions available</span>
+                                <?php endif; ?>
+                            </td>
+                        </tr>
+                    <?php endforeach; ?>
+                </tbody>
+            </table>
+        <?php endif; ?>
+    </div>
+
+    <!-- Product Approval Section -->
+    <div class="card p-4">
+        <h4>Manage Products</h4>
+        <p>Review and approve pending products. <strong><?php echo $pendingCount; ?> product(s) awaiting approval.</strong></p>
+        <a href="/boys_clothing_ecommerce/admin/approve_products.php" class="btn btn-primary">Go to Product Approval</a>
+    </div>
+</div>
+<?php require '../includes/footer.php'; ?>*/
+
+
+session_start();
+require '../includes/config.php';
+
+// Restrict access to admin only
+if (!isset($_SESSION['user_id']) || $_SESSION['role'] != 'admin') {
+    error_log("Unauthorized access attempt to admin dashboard - Session ID: " . session_id() . ", Session: " . print_r($_SESSION, true), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    header("Location: /boys_clothing_ecommerce/login.php");
+    exit;
+}
+
+// Handle verification actions
+if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['action']) && isset($_POST['seller_id'])) {
+    $sellerId = $_POST['seller_id'];
+    $action = $_POST['action'];
+    $validActions = ['approve', 'reject'];
+
+    if (!in_array($action, $validActions)) {
+        $error = "Invalid action.";
+        error_log("Invalid action attempted: $action for seller ID: $sellerId", 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    } else {
+        try {
+            $status = $action == 'approve' ? 'approved' : 'rejected';
+            $stmt = $pdo->prepare("UPDATE users SET verified = ? WHERE id = ? AND role = 'seller'");
+            $stmt->execute([$status, $sellerId]);
+            $success = "Seller verification " . ($action == 'approve' ? 'approved' : 'rejected') . " successfully.";
+            error_log("Seller ID: $sellerId verification set to $status", 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+        } catch (PDOException $e) {
+            $error = "Database error: " . $e->getMessage();
+            error_log("Verification DB error: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+        }
+    }
+}
+
+// Fetch all sellers
+try {
+    $stmt = $pdo->prepare("SELECT id, username, email, nid, certificate, verified FROM users WHERE role = 'seller' ORDER BY created_at DESC");
+    $stmt->execute();
+    $sellers = $stmt->fetchAll(PDO::FETCH_ASSOC);
+} catch (PDOException $e) {
+    $error = "Database error fetching sellers: " . $e->getMessage();
+    error_log("Database error fetching sellers: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    $sellers = [];
+}
+
+// Count pending products
+try {
+    $stmt = $pdo->prepare("SELECT COUNT(*) as count FROM products WHERE status = 'pending'");
+    $stmt->execute();
+    $pendingCount = $stmt->fetch(PDO::FETCH_ASSOC)['count'];
+} catch (PDOException $e) {
+    $error = "Database error counting pending products: " . $e->getMessage();
+    error_log("Database error counting pending products: " . $e->getMessage(), 3, "/Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/errors.log");
+    $pendingCount = 0;
+}
+?>
+
+<?php require '../includes/header.php'; ?>
+<div class="container my-5">
+    <h2 class="text-center mb-4">Admin Dashboard</h2>
+    <?php if (isset($error)): ?>
+        <div class="alert alert-danger"><?php echo htmlspecialchars($error); ?></div>
+    <?php elseif (isset($success)): ?>
+        <div class="alert alert-success"><?php echo htmlspecialchars($success); ?></div>
+    <?php endif; ?>
+
+    <!-- Sellers Section -->
+    <div class="card shadow-sm mb-5">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Manage Sellers</h4>
+        </div>
+        <div class="card-body">
+            <?php if (empty($sellers)): ?>
+                <p class="text-center text-muted">No sellers found.</p>
+            <?php else: ?>
+                <div class="table-responsive">
+                <table class="table table-hover align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Username</th>
+                            <th>Email</th>
+                            <th>NID</th>
+                            <th>Certificate</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <?php foreach ($sellers as $seller): ?>
+                            <tr>
+                                <td><?php echo htmlspecialchars($seller['username']); ?></td>
+                                <td><?php echo htmlspecialchars($seller['email']); ?></td>
+                                <td>
+                                    <?php if ($seller['nid']): ?>
+                                        <a href="/boys_clothing_ecommerce/<?php echo htmlspecialchars($seller['nid']); ?>" target="_blank" class="text-decoration-none"><i class="bi bi-file-earmark-text me-1"></i>View</a>
+                                    <?php else: ?>
+                                        <span class="text-muted">Not uploaded</span>
+                                    <?php endif; ?>
+                                </td>
+                                <td>
+                                    <?php if ($seller['certificate']): ?>
+                                        <a href="/boys_clothing_ecommerce/<?php echo htmlspecialchars($seller['certificate']); ?>" target="_blank" class="text-decoration-none"><i class="bi bi-file-earmark-medical me-1"></i>View</a>
+                                    <?php else: ?>
+                                        <span class="text-muted">Not uploaded</span>
+                                    <?php endif; ?>
+                                </td>
+                                <td>
+                                    <?php 
+                                    $statusClass = 'text-secondary';
+                                    if ($seller['verified'] == 'pending') $statusClass = 'text-warning';
+                                    elseif ($seller['verified'] == 'approved') $statusClass = 'text-success';
+                                    elseif ($seller['verified'] == 'rejected') $statusClass = 'text-danger';
+                                    ?>
+                                    <span class="<?php echo $statusClass; ?>"><?php echo ucfirst($seller['verified']); ?></span>
+                                </td>
+                                <td>
+                                    <?php if ($seller['verified'] == 'pending'): ?>
+                                        <form action="" method="POST" class="d-inline">
+                                            <input type="hidden" name="seller_id" value="<?php echo $seller['id']; ?>">
+                                            <input type="hidden" name="action" value="approve">
+                                            <button type="submit" class="btn btn-success btn-sm me-1"><i class="bi bi-check-circle"></i> Approve</button>
+                                        </form>
+                                        <form action="" method="POST" class="d-inline">
+                                            <input type="hidden" name="seller_id" value="<?php echo $seller['id']; ?>">
+                                            <input type="hidden" name="action" value="reject">
+                                            <button type="submit" class="btn btn-danger btn-sm"><i class="bi bi-x-circle"></i> Reject</button>
+                                        </form>
+                                    <?php else: ?>
+                                        <span class="text-muted">No actions available</span>
+                                    <?php endif; ?>
+                                </td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                </table>
+                </div>
+            <?php endif; ?>
+        </div>
+    </div>
+
+    <!-- Products Section -->
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Manage Products</h4>
+        </div>
+        <div class="card-body">
+            <p class="mb-3">Review and approve pending products. <strong><?php echo $pendingCount; ?> product(s) awaiting approval.</strong></p>
+            <a href="/boys_clothing_ecommerce/admin/approve_products.php" class="btn btn-primary btn-lg"><i class="bi bi-box-seam me-1"></i> Go to Product Approval</a>
+        </div>
+    </div>
+</div>
+<?php require '../includes/footer.php'; ?>
+

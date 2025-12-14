@@ -1,0 +1,6057 @@
+Header - Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Created Uploads directory: /Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/Uploads/Uploads directory not writable: /Applications/XAMPP/xamppfiles/htdocs/boys_clothing_ecommerce/Uploads/Header - Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session: Header - Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session: Before login - Session: Array
+(
+)
+Header - Session: Array
+(
+)
+Before login - Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyerHeader - Session: Header - Session: Header - Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Index - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Index - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Index - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session: Array
+(
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: pending, Session ID: 2ldup2a6febr6977f90ba8omioHeader - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Index - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session: Array
+(
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session: Array
+(
+)
+Login failed - Email: x@gmail.comHeader - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: pending, Session ID: 2ldup2a6febr6977f90ba8omioHeader - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => pending
+)
+Index - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Header - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Before login - Session ID: 2ldup2a6febr6977f90ba8omio, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 53pbe13jbojbaa2flqfaquqst8Header - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Seller ID: 3 verification set to approvedHeader - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Index - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+)
+Header - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+)
+Before login - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+)
+Header - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+)
+Before login - Session ID: 53pbe13jbojbaa2flqfaquqst8, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 3s6er95ooeq15597ddtlhs9qnbHeader - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: 31wohCieRfL._SY1000_.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 10829, Temp: /Applications/XAMPP/xamppfiles/temp/php4y8weKSuccessfully uploaded image: 31wohCieRfL._SY1000_.jpg to ../Uploads/img_68a9afbc988e3_31wohCieRfL._SY1000_.jpgProduct add DB error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: images.png, Reported MIME: image/png, Actual MIME: image/png, Size: 11881, Temp: /Applications/XAMPP/xamppfiles/temp/phpgWtsQgSuccessfully uploaded image: images.png to ../Uploads/img_68a9b1e024737_images.pngLaundry memo: images.png, Reported MIME: image/png, Actual MIME: image/png, Size: 11881, Temp: /Applications/XAMPP/xamppfiles/temp/phpyNklWbSuccessfully uploaded laundry memo: images.png to ../Uploads/memo_68a9b1e024a8a_images.pngProduct add DB error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'category' at row 1Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: 31wohCieRfL._SY1000_.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 10829, Temp: /Applications/XAMPP/xamppfiles/temp/phpvAAy9hSuccessfully uploaded image: 31wohCieRfL._SY1000_.jpg to ../Uploads/img_68a9b6e8801dc_31wohCieRfL._SY1000_.jpgLaundry memo: images.png, Reported MIME: image/png, Actual MIME: image/png, Size: 11881, Temp: /Applications/XAMPP/xamppfiles/temp/phpZgreRnSuccessfully uploaded laundry memo: images.png to ../Uploads/memo_68a9b6e8804b7_images.pngProduct added by seller ID: 3, Title: gvdhgva, Category: casual_shirt, Status: pending, Hygiene Verified: approved, Images: ["Uploads\/img_68a9b6e8801dc_31wohCieRfL._SY1000_.jpg"]Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Index - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Before login - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Header - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Before login - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Login failed - Email: admin@boysclothing.comHeader - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Before login - Session ID: 3s6er95ooeq15597ddtlhs9qnb, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: u9h01kcgjn3f50q9ghjre7kc77Header - Session ID: u9h01kcgjn3f50q9ghjre7kc77, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Index - Session ID: u9h01kcgjn3f50q9ghjre7kc77, Session: Array
+(
+)
+Header - Session ID: u9h01kcgjn3f50q9ghjre7kc77, Session: Array
+(
+)
+Before login - Session ID: u9h01kcgjn3f50q9ghjre7kc77, Session: Array
+(
+)
+Header - Session ID: u9h01kcgjn3f50q9ghjre7kc77, Session: Array
+(
+)
+Before login - Session ID: u9h01kcgjn3f50q9ghjre7kc77, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: viou6leprjc95kg42lf8nvngkrHeader - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: 31wohCieRfL._SY1000_.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 10829, Temp: /Applications/XAMPP/xamppfiles/temp/php3P8SjnSuccessfully uploaded image: 31wohCieRfL._SY1000_.jpg to ../Uploads/img_68a9b7688be6c_31wohCieRfL._SY1000_.jpgProduct added by seller ID: 3, Title: wdghwf, Category: formal_shirt, Status: approved, Hygiene Verified: approved, Images: ["Uploads\/img_68a9b7688be6c_31wohCieRfL._SY1000_.jpg"]Header - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Index - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+)
+Header - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+)
+Before login - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+)
+Header - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+)
+Before login - Session ID: viou6leprjc95kg42lf8nvngkr, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: ogrqglslr9tf177qjrc88nu62qIndex - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Index - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Before login - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Header - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Before login - Session ID: ogrqglslr9tf177qjrc88nu62q, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: i3lckre57ngll97eqpniqcaoo3Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Product ID: 3 approve by admin ID: 1, Status: approved, Hygiene Verified: approvedHeader - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+)
+Before login - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+)
+Header - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+)
+Before login - Session ID: i3lckre57ngll97eqpniqcaoo3, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: s1n4k45bbtssq6fgf5krphhekeHeader - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 48454, Temp: /Applications/XAMPP/xamppfiles/temp/phpAs1MJwSuccessfully uploaded image: t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpg to ../Uploads/img_68a9c014af11c_t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpgLaundry memo: 6167872744625128662.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 129060, Temp: /Applications/XAMPP/xamppfiles/temp/phppM0DuhSuccessfully uploaded laundry memo: 6167872744625128662.jpg to ../Uploads/memo_68a9c014af7d1_6167872744625128662.jpgProduct added by seller ID: 3, Title: shity, Category: tshirt, Status: pending, Hygiene Verified: approved, Images: ["Uploads\/img_68a9c014af11c_t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpg"]Header - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+)
+Before login - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+)
+Header - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+)
+Before login - Session ID: s1n4k45bbtssq6fgf5krphheke, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: rhb50g287c8birs39fll0ar7ugHeader - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Product ID: 5 approve by admin ID: 1, Status: approved, Hygiene Verified: approved, Notification sent to seller ID: 3Header - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+)
+Before login - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+)
+Header - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+)
+Before login - Session ID: rhb50g287c8birs39fll0ar7ug, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: f9cg4l1907rs5hn59a5lmcilcsHeader - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 50514, Temp: /Applications/XAMPP/xamppfiles/temp/phpZy11u4Successfully uploaded image: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg to ../Uploads/img_68a9c0a4d2eaa_t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpgLaundry memo: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 50514, Temp: /Applications/XAMPP/xamppfiles/temp/php2iwosRSuccessfully uploaded laundry memo: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg to ../Uploads/memo_68a9c0a4d32f0_t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpgProduct added by seller ID: 3, Title: jama, Category: sweater, Status: pending, Hygiene Verified: approved, Images: ["Uploads\/img_68a9c0a4d2eaa_t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg"]Header - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+)
+Before login - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+)
+Header - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+)
+Before login - Session ID: f9cg4l1907rs5hn59a5lmcilcs, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: b35ivfc3k9eg09qu64avvsu2ilHeader - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+)
+Before login - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+)
+Header - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+)
+Before login - Session ID: b35ivfc3k9eg09qu64avvsu2il, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: eh10jujl9ajj60phtoicpbm927Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Product ID: 3 added to cart for buyer ID: 2Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Database error placing order: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'type' at row 1Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Database error placing order: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'type' at row 1Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Database error placing order: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'type' at row 1Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 4Attempting to create order for product ID: 3, buyer ID: 2Order created: ID 4Attempting to update product status to sold for product ID: 3Product status updated to sold for product ID: 3Attempting to notify seller ID: 3 for order ID: 4Database error placing order: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'type' at row 1Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 5Attempting to create order for product ID: 3, buyer ID: 2Order created: ID 5Attempting to update product status to sold for product ID: 3Product status updated to sold for product ID: 3Attempting to notify seller ID: 3 for order ID: 5Notification sent to seller ID: 3Order placed successfully: ID 5, product_id: 3, buyer_id: 2Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+)
+Before login - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+)
+Header - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+)
+Before login - Session ID: eh10jujl9ajj60phtoicpbm927, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 1eg631o211gponslj8sm9s01dbHeader - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 5, Status: shippedOrder ID: 5 updated to status: shippedNotification created for buyer for order ID: 5Header - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+)
+Before login - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+)
+Header - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+)
+Before login - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+)
+Login failed - Email: f@gmail.comHeader - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+)
+Before login - Session ID: 1eg631o211gponslj8sm9s01db, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocqHeader - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+)
+Before login - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+)
+Header - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+)
+Before login - Session ID: 8o8f5l3b8f3k6nlo1e8jdr2ocq, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: ou4r5une3t7jaj5987irms3fqeHeader - Session ID: ou4r5une3t7jaj5987irms3fqe, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 5, Status: deliveredOrder ID: 5 updated to status: deliveredProduct status updated to 'sold' for order ID: 5Notification created for buyer for order ID: 5Header - Session ID: ou4r5une3t7jaj5987irms3fqe, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: ou4r5une3t7jaj5987irms3fqe, Session: Array
+(
+)
+Before login - Session ID: ou4r5une3t7jaj5987irms3fqe, Session: Array
+(
+)
+Header - Session ID: ou4r5une3t7jaj5987irms3fqe, Session: Array
+(
+)
+Before login - Session ID: ou4r5une3t7jaj5987irms3fqe, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: iil6v94j9426gbpsp0gudvl49dHeader - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Return request submitted for order ID: 5 by buyer ID: 2Header - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+)
+Before login - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+)
+Header - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+)
+Before login - Session ID: iil6v94j9426gbpsp0gudvl49d, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: akjrlpg57a7g61qjbqt780cmd7Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Notification ID: 5 marked as read by seller ID: 3Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Notification ID: 2 marked as read by seller ID: 3Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Notification ID: 1 marked as read by seller ID: 3Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Return ID: 1 updated to status: approved by seller ID: 3Product status updated to 'available' for order ID: 5Notification created for buyer for return ID: 1, order ID: 5Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Before login - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Header - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Before login - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Login failed - Email: f@gmail.comHeader - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Before login - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Login failed - Email: f@gmail.comHeader - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Before login - Session ID: akjrlpg57a7g61qjbqt780cmd7, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: nc37fvhd47dtk321b2nkge7n0rHeader - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Notification ID: 6 marked as read by buyer ID: 2Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Notification ID: 4 marked as read by buyer ID: 2Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Notification ID: 3 marked as read by buyer ID: 2Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 6Attempting to create order for product ID: 4, buyer ID: 2Order created: ID 6Attempting to update product status to sold for product ID: 4Product status updated to sold for product ID: 4Attempting to notify seller ID: 3 for order ID: 6Notification sent to seller ID: 3Order placed successfully: ID 6, product_id: 4, buyer_id: 2Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+)
+Header - Session ID: nc37fvhd47dtk321b2nkge7n0r, Session: Array
+(
+)
+Header - Session ID: 3pcjfrj3qvf9l33s92qukk7i08, Session: Array
+(
+)
+Before login - Session ID: 3pcjfrj3qvf9l33s92qukk7i08, Session: Array
+(
+)
+Header - Session ID: 3pcjfrj3qvf9l33s92qukk7i08, Session: Array
+(
+)
+Before login - Session ID: 3pcjfrj3qvf9l33s92qukk7i08, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: 072jsn5o2h6pur35rdcstcr2emHeader - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+)
+Before login - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+)
+Header - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+)
+Before login - Session ID: 072jsn5o2h6pur35rdcstcr2em, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: cfbu31gtnp2u4ss8gpd8aoi1qsHeader - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 6, Status: shippedOrder ID: 6 updated to status: shippedNotification created for buyer for order ID: 6Header - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 6, Status: deliveredOrder ID: 6 updated to status: deliveredProduct ID: 4 status updated to 'sold' for order ID: 6Notification created for buyer for order ID: 6Header - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+)
+Before login - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+)
+Header - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+)
+Header - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+)
+Before login - Session ID: cfbu31gtnp2u4ss8gpd8aoi1qs, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: r2mb16t8shabvqqhojmm6seottHeader - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Product ID: 6 approve by admin ID: 1, Status: approved, Hygiene Verified: approved, Notification sent to seller ID: 3Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+)
+Before login - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+)
+Header - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+)
+Before login - Session ID: r2mb16t8shabvqqhojmm6seott, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: qht0jrgqhptv22a08pmh96b6e9Database error fetching payout requests: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boys_clothing.payout_requests' doesn't existDatabase error calculating total earnings: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seller_amount' in 'field list'Header - Session ID: qht0jrgqhptv22a08pmh96b6e9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Database error fetching payout requests: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boys_clothing.payout_requests' doesn't existDatabase error calculating total earnings: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seller_amount' in 'field list'Header - Session ID: qht0jrgqhptv22a08pmh96b6e9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Database error fetching payout requests: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boys_clothing.payout_requests' doesn't existDatabase error calculating total earnings: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seller_amount' in 'field list'Header - Session ID: qht0jrgqhptv22a08pmh96b6e9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: qht0jrgqhptv22a08pmh96b6e9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: qht0jrgqhptv22a08pmh96b6e9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: qht0jrgqhptv22a08pmh96b6e9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: c8qqe0v24knj5kefjkne7o34dpHeader - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+)
+Before login - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+)
+Header - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+)
+Before login - Session ID: c8qqe0v24knj5kefjkne7o34dp, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: gdg2vgrunk1370gdl658b24mpqDatabase error fetching payout requests: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boys_clothing.payout_requests' doesn't existDatabase error calculating total earnings: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seller_amount' in 'field list'Header - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Database error fetching payout requests: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boys_clothing.payout_requests' doesn't existDatabase error calculating total earnings: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seller_amount' in 'field list'Header - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+)
+Before login - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+)
+Header - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+)
+Before login - Session ID: gdg2vgrunk1370gdl658b24mpq, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: jib4n182hag7foje51eugbhfr7Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Notification ID: 10 marked as read by seller ID: 3Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Notification ID: 7 marked as read by seller ID: 3Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 48454, Temp: /Applications/XAMPP/xamppfiles/temp/phpuyzRELSuccessfully uploaded image: t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpg to ../Uploads/img_68aa09ef45566_t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpgProduct added by seller ID: 3, Title: g, Category: polo, Status: approved, Hygiene Verified: approved, Images: ["Uploads\/img_68aa09ef45566_t-shirt-polo-shirt-ralph-lauren-corporation-clip-art-png-favpng-dbzshX5unUtGV986FN0HTgsSq.jpg"]Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Before login - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Before login - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Before login - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Header - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Before login - Session ID: jib4n182hag7foje51eugbhfr7, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: tnjbedbace9dmunh4840dd886bHeader - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Before login - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Header - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Before login - Session ID: tnjbedbace9dmunh4840dd886b, Session: Array
+(
+)
+Login successful - User ID: 4, Role: buyer, Verified: approved, Session ID: g01jlmg8710a94bfhm8qgppjgpHeader - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+    [user_id] => 4
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+)
+Before login - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+)
+Header - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+)
+Before login - Session ID: g01jlmg8710a94bfhm8qgppjgp, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: 3atma99bq1udb8ha4gqg1mivrjHeader - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+)
+Before login - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+)
+Header - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+)
+Header - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+)
+Before login - Session ID: 3atma99bq1udb8ha4gqg1mivrj, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: n6jobuu2qbejs864ktfsk3pfl6Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+)
+Before login - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+)
+Header - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+)
+Before login - Session ID: n6jobuu2qbejs864ktfsk3pfl6, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 9564b8n1upa8sdfdrtmti57qrmHeader - Session ID: 9564b8n1upa8sdfdrtmti57qrm, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 9564b8n1upa8sdfdrtmti57qrm, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 9564b8n1upa8sdfdrtmti57qrm, Session: Array
+(
+)
+Before login - Session ID: 9564b8n1upa8sdfdrtmti57qrm, Session: Array
+(
+)
+Header - Session ID: 9564b8n1upa8sdfdrtmti57qrm, Session: Array
+(
+)
+Before login - Session ID: 9564b8n1upa8sdfdrtmti57qrm, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: ipc0vk3stq24np0i51uvhhrr85Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+)
+Before login - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+)
+Header - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+)
+Before login - Session ID: ipc0vk3stq24np0i51uvhhrr85, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 7n2kr5udiortrqden4pkfgruekHeader - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+)
+Before login - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+)
+Header - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+)
+Before login - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+)
+Login failed - Email: f@gmail.comHeader - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+)
+Before login - Session ID: 7n2kr5udiortrqden4pkfgruek, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: bnt3uhkgb597fjgpamnvu5ijbkHeader - Session ID: bnt3uhkgb597fjgpamnvu5ijbk, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: bnt3uhkgb597fjgpamnvu5ijbk, Session: Array
+(
+)
+Before login - Session ID: bnt3uhkgb597fjgpamnvu5ijbk, Session: Array
+(
+)
+Header - Session ID: bnt3uhkgb597fjgpamnvu5ijbk, Session: Array
+(
+)
+Before login - Session ID: bnt3uhkgb597fjgpamnvu5ijbk, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: vb5roofodmb0kbpg873oacptl4Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: bearGoUni.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 455067, Temp: /Applications/XAMPP/xamppfiles/temp/phplH24orSuccessfully uploaded image: bearGoUni.jpg to ../Uploads/img_68aa17f3bb2c5_bearGoUni.jpgProduct added by seller ID: 3, Title: ggg, Category: casual_shirt, Status: approved, Hygiene Verified: approved, Images: ["Uploads\/img_68aa17f3bb2c5_bearGoUni.jpg"]Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Before login - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Header - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Before login - Session ID: vb5roofodmb0kbpg873oacptl4, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: g0vjd9h2tohdng2g4tgsrupv55Header - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+)
+Header - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+)
+Header - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+)
+Before login - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+)
+Header - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+)
+Before login - Session ID: g0vjd9h2tohdng2g4tgsrupv55, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: l843fsuc4t4s6gnmcjfjm0if96Header - Session ID: l843fsuc4t4s6gnmcjfjm0if96, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: l843fsuc4t4s6gnmcjfjm0if96, Session: Array
+(
+)
+Before login - Session ID: l843fsuc4t4s6gnmcjfjm0if96, Session: Array
+(
+)
+Header - Session ID: l843fsuc4t4s6gnmcjfjm0if96, Session: Array
+(
+)
+Before login - Session ID: l843fsuc4t4s6gnmcjfjm0if96, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: s70c74keuht8ah5r327llspoojHeader - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+)
+Before login - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+)
+Header - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+)
+Before login - Session ID: s70c74keuht8ah5r327llspooj, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: cs89ltkak01tgrkjulbtt4eeudHeader - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Return request submitted for order ID: 6 by buyer ID: 2Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+)
+Before login - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+)
+Header - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+)
+Before login - Session ID: cs89ltkak01tgrkjulbtt4eeud, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 6bu4k3anq5a5o9ueumm9423i2hBefore login - Session ID: 6bu4k3anq5a5o9ueumm9423i2h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 6bu4k3anq5a5o9ueumm9423i2h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: 6bu4k3anq5a5o9ueumm9423i2h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: a0dadpqh1npk03ju5urcbsijshBefore login - Session ID: a0dadpqh1npk03ju5urcbsijsh, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: a0dadpqh1npk03ju5urcbsijsh, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: a0dadpqh1npk03ju5urcbsijsh, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 90dau747iji310bqnte929kgnuBefore login - Session ID: 90dau747iji310bqnte929kgnu, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 90dau747iji310bqnte929kgnu, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: 90dau747iji310bqnte929kgnu, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: mhms0bnp4ohhia9ipnjvh3a6r6Before login - Session ID: mhms0bnp4ohhia9ipnjvh3a6r6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: mhms0bnp4ohhia9ipnjvh3a6r6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: mhms0bnp4ohhia9ipnjvh3a6r6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 0u83vr11eb4oo3q8mks9nreeksHeader - Session ID: 0u83vr11eb4oo3q8mks9nreeks, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 0u83vr11eb4oo3q8mks9nreeks, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 0u83vr11eb4oo3q8mks9nreeks, Session: Array
+(
+)
+Before login - Session ID: 0u83vr11eb4oo3q8mks9nreeks, Session: Array
+(
+)
+Header - Session ID: 0u83vr11eb4oo3q8mks9nreeks, Session: Array
+(
+)
+Before login - Session ID: 0u83vr11eb4oo3q8mks9nreeks, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: hh7lgn26r7l2j8kfn79482763fHeader - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 7Attempting to create order for product ID: 8, buyer ID: 2Order created: ID 7Attempting to update product status to sold for product ID: 8Product status updated to sold for product ID: 8Attempting to notify seller ID: 3 for order ID: 7Notification sent to seller ID: 3Order placed successfully: ID 7, product_id: 8, buyer_id: 2Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 8Attempting to create order for product ID: 6, buyer ID: 2Order created: ID 8Attempting to update product status to sold for product ID: 6Product status updated to sold for product ID: 6Attempting to notify seller ID: 3 for order ID: 8Notification sent to seller ID: 3Order placed successfully: ID 8, product_id: 6, buyer_id: 2Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 9Attempting to create order for product ID: 7, buyer ID: 2Order created: ID 9Attempting to update product status to sold for product ID: 7Product status updated to sold for product ID: 7Attempting to notify seller ID: 3 for order ID: 9Notification sent to seller ID: 3Order placed successfully: ID 9, product_id: 7, buyer_id: 2Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Before login - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Header - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Before login - Session ID: hh7lgn26r7l2j8kfn79482763f, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: pp3cqaaennkf2j1hvgueq5i5naHeader - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+)
+Before login - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+)
+Header - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+)
+Before login - Session ID: pp3cqaaennkf2j1hvgueq5i5na, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: k97614i3hsgempno8s87dh5hf5Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Before login - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Before login - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Header - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Before login - Session ID: k97614i3hsgempno8s87dh5hf5, Session: Array
+(
+)
+Login successful - User ID: 5, Role: seller, Verified: pending, Session ID: baunfsoevbit1pe2htefuk1vqeHeader - Session ID: baunfsoevbit1pe2htefuk1vqe, Session: Array
+(
+    [user_id] => 5
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: baunfsoevbit1pe2htefuk1vqe, Session: Array
+(
+    [user_id] => 5
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: baunfsoevbit1pe2htefuk1vqe, Session: Array
+(
+)
+Before login - Session ID: baunfsoevbit1pe2htefuk1vqe, Session: Array
+(
+)
+Header - Session ID: baunfsoevbit1pe2htefuk1vqe, Session: Array
+(
+)
+Before login - Session ID: baunfsoevbit1pe2htefuk1vqe, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: rq4kt0s6e3foichvfh314d32q0Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Before login - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Before login - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Header - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Before login - Session ID: rq4kt0s6e3foichvfh314d32q0, Session: Array
+(
+)
+Login successful - User ID: 6, Role: seller, Verified: pending, Session ID: hcku9g9pf05218a1lpd3ih1jreHeader - Session ID: hcku9g9pf05218a1lpd3ih1jre, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: hcku9g9pf05218a1lpd3ih1jre, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => pending
+)
+Header - Session ID: hcku9g9pf05218a1lpd3ih1jre, Session: Array
+(
+)
+Before login - Session ID: hcku9g9pf05218a1lpd3ih1jre, Session: Array
+(
+)
+Header - Session ID: hcku9g9pf05218a1lpd3ih1jre, Session: Array
+(
+)
+Before login - Session ID: hcku9g9pf05218a1lpd3ih1jre, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: dedng5ecv29qvqneu0d20vvc4kHeader - Session ID: dedng5ecv29qvqneu0d20vvc4k, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: dedng5ecv29qvqneu0d20vvc4k, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: dedng5ecv29qvqneu0d20vvc4k, Session: Array
+(
+)
+Before login - Session ID: dedng5ecv29qvqneu0d20vvc4k, Session: Array
+(
+)
+Header - Session ID: dedng5ecv29qvqneu0d20vvc4k, Session: Array
+(
+)
+Before login - Session ID: dedng5ecv29qvqneu0d20vvc4k, Session: Array
+(
+)
+Login successful - User ID: 6, Role: seller, Verified: rejected, Session ID: ut3pp7hmmgbs10ld9c03nu1pp2Header - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => rejected
+)
+Header - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => rejected
+)
+Header - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+)
+Before login - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+)
+Header - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+)
+Before login - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+)
+Login failed - Email: admin@boysclothing.comHeader - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+)
+Before login - Session ID: ut3pp7hmmgbs10ld9c03nu1pp2, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: phnmerr9bs1p54pg6rd073e3p3Header - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+)
+Before login - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+)
+Header - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+)
+Before login - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+)
+Login failed - Email: mohot@gmail.comHeader - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+)
+Before login - Session ID: phnmerr9bs1p54pg6rd073e3p3, Session: Array
+(
+)
+Login successful - User ID: 6, Role: seller, Verified: approved, Session ID: ti35nqpl71vbe732mo1ddaavt7Header - Session ID: ti35nqpl71vbe732mo1ddaavt7, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: ti35nqpl71vbe732mo1ddaavt7, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: ti35nqpl71vbe732mo1ddaavt7, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: ti35nqpl71vbe732mo1ddaavt7, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: ti35nqpl71vbe732mo1ddaavt7, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: ti35nqpl71vbe732mo1ddaavt7, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 6, Role: seller, Verified: approved, Session ID: tu6a0va96b2cmb824fh428mtoiBefore login - Session ID: tu6a0va96b2cmb824fh428mtoi, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: tu6a0va96b2cmb824fh428mtoi, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: tu6a0va96b2cmb824fh428mtoi, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 6, Role: seller, Verified: approved, Session ID: 7di9q3gvarfjea9g0541ik4airBefore login - Session ID: 7di9q3gvarfjea9g0541ik4air, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 7di9q3gvarfjea9g0541ik4air, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: 7di9q3gvarfjea9g0541ik4air, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 6, Role: seller, Verified: approved, Session ID: 31u6bs8fmoljkomgtlq44vlv3vBefore login - Session ID: 31u6bs8fmoljkomgtlq44vlv3v, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 31u6bs8fmoljkomgtlq44vlv3v, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: 31u6bs8fmoljkomgtlq44vlv3v, Session: Array
+(
+    [user_id] => 6
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: amjbvva32f70urjma6dihm1bc9Before login - Session ID: amjbvva32f70urjma6dihm1bc9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: amjbvva32f70urjma6dihm1bc9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: amjbvva32f70urjma6dihm1bc9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login failed - Email: x@gmail.comHeader - Session ID: amjbvva32f70urjma6dihm1bc9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: amjbvva32f70urjma6dihm1bc9, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 1i13f5jmvhofemi69umu06enq8Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+)
+Before login - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+)
+Header - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+)
+Before login - Session ID: 1i13f5jmvhofemi69umu06enq8, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: d32o1h5ed7tf0kqmnmdofsd1okHeader - Session ID: d32o1h5ed7tf0kqmnmdofsd1ok, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: d32o1h5ed7tf0kqmnmdofsd1ok, Session: Array
+(
+)
+Before login - Session ID: d32o1h5ed7tf0kqmnmdofsd1ok, Session: Array
+(
+)
+Header - Session ID: d32o1h5ed7tf0kqmnmdofsd1ok, Session: Array
+(
+)
+Before login - Session ID: d32o1h5ed7tf0kqmnmdofsd1ok, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 103as2h2frm2l2pm0amerp7jutHeader - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+)
+Before login - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+)
+Header - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+)
+Before login - Session ID: 103as2h2frm2l2pm0amerp7jut, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 30g2osquh324tdhfu2pohrmkkcHeader - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Before login - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Before login - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Login failed - Email: admin@boysclothing.comHeader - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Before login - Session ID: 30g2osquh324tdhfu2pohrmkkc, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 6l9b42plrmtlni9hualhagob30Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+)
+Before login - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+)
+Header - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+)
+Before login - Session ID: 6l9b42plrmtlni9hualhagob30, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 6qubthrlqrrfhulbq0kqgnd3l2Header - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 7, Status: deliveredOrder ID: 7 updated to status: deliveredProduct ID: 8 status updated to 'sold' for order ID: 7Notification created for buyer for order ID: 7Header - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 9, Status: deliveredOrder ID: 9 updated to status: deliveredProduct ID: 7 status updated to 'sold' for order ID: 9Notification created for buyer for order ID: 9Header - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+)
+Before login - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+)
+Header - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+)
+Before login - Session ID: 6qubthrlqrrfhulbq0kqgnd3l2, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: vug5jn0qpjtb8mipim5jfa3tfjHeader - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Return request submitted for order ID: 9 by buyer ID: 2Header - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+)
+Before login - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+)
+Header - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+)
+Before login - Session ID: vug5jn0qpjtb8mipim5jfa3tfj, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: f1es1lalq0d17qto989aclrfopHeader - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Return ID: 3 updated to status: approved by seller ID: 3Product status updated to 'available' for order ID: 9Notification created for buyer for return ID: 3, order ID: 9Header - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Return ID: 2 updated to status: rejected by seller ID: 3Notification created for buyer for return ID: 2, order ID: 6Header - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+)
+Before login - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+)
+Header - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+)
+Before login - Session ID: f1es1lalq0d17qto989aclrfop, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: krvmk7l11nm37gprql85na1m36Header - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+)
+Before login - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+)
+Header - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+)
+Before login - Session ID: krvmk7l11nm37gprql85na1m36, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: nc3nhmqen2k6adcu86j4b3svjqHeader - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Before login - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+)
+Before login - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+)
+Header - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+)
+Before login - Session ID: nc3nhmqen2k6adcu86j4b3svjq, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: j14bu2alepj3atenerj950hlmcHeader - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 10Attempting to create order for product ID: 3, buyer ID: 2Order created: ID 10Attempting to update product status to sold for product ID: 3Product status updated to sold for product ID: 3Attempting to notify seller ID: 3 for order ID: 10Notification sent to seller ID: 3Order placed successfully: ID 10, product_id: 3, buyer_id: 2Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Before login - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Header - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Before login - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Login failed - Email: f@gmail.comHeader - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Before login - Session ID: j14bu2alepj3atenerj950hlmc, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: 2ln5nctop9sogk658ol7h6849fHeader - Session ID: 2ln5nctop9sogk658ol7h6849f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ln5nctop9sogk658ol7h6849f, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 2ln5nctop9sogk658ol7h6849f, Session: Array
+(
+)
+Before login - Session ID: 2ln5nctop9sogk658ol7h6849f, Session: Array
+(
+)
+Header - Session ID: 2ln5nctop9sogk658ol7h6849f, Session: Array
+(
+)
+Before login - Session ID: 2ln5nctop9sogk658ol7h6849f, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 9u8f7lnpqub8dgi94bor4llrl8Header - Session ID: 9u8f7lnpqub8dgi94bor4llrl8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 9u8f7lnpqub8dgi94bor4llrl8, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 9u8f7lnpqub8dgi94bor4llrl8, Session: Array
+(
+)
+Before login - Session ID: 9u8f7lnpqub8dgi94bor4llrl8, Session: Array
+(
+)
+Header - Session ID: 9u8f7lnpqub8dgi94bor4llrl8, Session: Array
+(
+)
+Before login - Session ID: 9u8f7lnpqub8dgi94bor4llrl8, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: mkm9npgfr0i4kmbs5gmgh3sta1Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+)
+Before login - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+)
+Header - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+)
+Before login - Session ID: mkm9npgfr0i4kmbs5gmgh3sta1, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: n8d15sl80akim8mhoddoguvu01Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+)
+Before login - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+)
+Header - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+)
+Before login - Session ID: n8d15sl80akim8mhoddoguvu01, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: kq502irt1chesqc8r9694kfgbpHeader - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 10, Status: deliveredOrder ID: 10 updated to status: deliveredProduct ID: 3 status updated to 'sold' for order ID: 10Notification created for buyer for order ID: 10Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 8, Status: deliveredOrder ID: 8 updated to status: deliveredProduct ID: 6 status updated to 'sold' for order ID: 8Notification created for buyer for order ID: 8Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: kq502irt1chesqc8r9694kfgbp, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: t4r95vme0hrfdcpluvvb05ok7hHeader - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+)
+Before login - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+)
+Header - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+)
+Before login - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+)
+Login failed - Email: f@gmail.comHeader - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+)
+Before login - Session ID: t4r95vme0hrfdcpluvvb05ok7h, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: a689bqt25dt98psleajd0h2n0qHeader - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 11Attempting to create order for product ID: 5, buyer ID: 2Order created: ID 11Attempting to update product status to sold for product ID: 5Product status updated to sold for product ID: 5Attempting to notify seller ID: 3 for order ID: 11Notification sent to seller ID: 3Order placed successfully: ID 11, product_id: 5, buyer_id: 2Header - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+)
+Before login - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+)
+Header - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+)
+Before login - Session ID: a689bqt25dt98psleajd0h2n0q, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 78q2ho0bnqvpi5fv11qbco5nl6Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Received POST data - Order ID: 11, Status: deliveredOrder ID: 11 updated to status: deliveredProduct ID: 5 status updated to 'sold' for order ID: 11Notification created for buyer for order ID: 11Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: 21e801ee6a9cfc6f872ec3ffb8a35f33.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 35667, Temp: /Applications/XAMPP/xamppfiles/temp/phpemVZvJSuccessfully uploaded image: 21e801ee6a9cfc6f872ec3ffb8a35f33.jpg to ../Uploads/img_68aa56335b0bf_21e801ee6a9cfc6f872ec3ffb8a35f33.jpgProduct added by seller ID: 3, Title: shirt, Category: tshirt, Status: approved, Hygiene Verified: approved, Images: ["Uploads\/img_68aa56335b0bf_21e801ee6a9cfc6f872ec3ffb8a35f33.jpg"]Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+)
+Before login - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+)
+Header - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+)
+Before login - Session ID: 78q2ho0bnqvpi5fv11qbco5nl6, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: jjk100sc5sq73l1haj4scq8np0Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+)
+Before login - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+)
+Header - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+)
+Before login - Session ID: jjk100sc5sq73l1haj4scq8np0, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: edft4a6vokavnvtsd8rqlnmrjbHeader - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpeg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 172887, Temp: /Applications/XAMPP/xamppfiles/temp/php9kV6EUSuccessfully uploaded image: cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpeg to ../Uploads/img_68aa57229b49d_cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpegLaundry memo: cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpeg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 172887, Temp: /Applications/XAMPP/xamppfiles/temp/phpEoyJtvSuccessfully uploaded laundry memo: cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpeg to ../Uploads/memo_68aa57229b768_cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpegProduct added by seller ID: 3, Title: Grilla mama T, Category: tshirt, Status: pending, Hygiene Verified: approved, Images: ["Uploads\/img_68aa57229b49d_cefa31ee9d5b7fa4f4070c2664384059e42ffb1e_original.jpeg"]Header - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+)
+Before login - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+)
+Header - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+)
+Before login - Session ID: edft4a6vokavnvtsd8rqlnmrjb, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: vhv6mfdlmgn9qfn0lu8em27751Header - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+)
+Before login - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+)
+Header - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+)
+Before login - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+)
+Login failed - Email: admin@boysclothing.comHeader - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+)
+Before login - Session ID: vhv6mfdlmgn9qfn0lu8em27751, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 7bl2os130qikeu9us606pnrl31Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+)
+Before login - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+)
+Header - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+)
+Before login - Session ID: 7bl2os130qikeu9us606pnrl31, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: sp4rq6b4f94p68na9c40mjb522Header - Session ID: sp4rq6b4f94p68na9c40mjb522, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: sp4rq6b4f94p68na9c40mjb522, Session: Array
+(
+)
+Header - Session ID: sp4rq6b4f94p68na9c40mjb522, Session: Array
+(
+)
+Before login - Session ID: sp4rq6b4f94p68na9c40mjb522, Session: Array
+(
+)
+Header - Session ID: sp4rq6b4f94p68na9c40mjb522, Session: Array
+(
+)
+Before login - Session ID: sp4rq6b4f94p68na9c40mjb522, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: ftpmvl03cg4kf3l6ajq8e5lc8sHeader - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+)
+Before login - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+)
+Header - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+)
+Before login - Session ID: ftpmvl03cg4kf3l6ajq8e5lc8s, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: 4jaqh6o86ekmsfmlcj1uiuurchHeader - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Attempting to save address for buyer ID: 2Address saved: ID 12Attempting to create order for product ID: 9, buyer ID: 2Order created: ID 12Attempting to update product status to sold for product ID: 9Product status updated to sold for product ID: 9Attempting to notify seller ID: 3 for order ID: 12Notification sent to seller ID: 3Order placed successfully: ID 12, product_id: 9, buyer_id: 2Header - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Product not found or not available: ID 9Header - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+    [user_id] => 2
+    [role] => buyer
+    [verified] => approved
+)
+Header - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+)
+Before login - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+)
+Header - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+)
+Before login - Session ID: 4jaqh6o86ekmsfmlcj1uiuurch, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: pclo4jm6qlprii6ou7i5piicfnHeader - Session ID: pclo4jm6qlprii6ou7i5piicfn, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: pclo4jm6qlprii6ou7i5piicfn, Session: Array
+(
+)
+Before login - Session ID: pclo4jm6qlprii6ou7i5piicfn, Session: Array
+(
+)
+Header - Session ID: pclo4jm6qlprii6ou7i5piicfn, Session: Array
+(
+)
+Before login - Session ID: pclo4jm6qlprii6ou7i5piicfn, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 775l2ojgmf89i5mops8o4giic4Header - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+)
+Before login - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+)
+Header - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+)
+Before login - Session ID: 775l2ojgmf89i5mops8o4giic4, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: 18memqrv0brc2hcij7sso5e648Header - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Image: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 50514, Temp: /Applications/XAMPP/xamppfiles/temp/phpTa5BCiSuccessfully uploaded image: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg to ../Uploads/img_68aaa6f6d0c6e_t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpgLaundry memo: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg, Reported MIME: image/jpeg, Actual MIME: image/jpeg, Size: 50514, Temp: /Applications/XAMPP/xamppfiles/temp/phpk7fsgGSuccessfully uploaded laundry memo: t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg to ../Uploads/memo_68aaa6f6d100a_t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpgProduct added by seller ID: 3, Title: retet, Category: tshirt, Status: pending, Hygiene Verified: approved, Images: ["Uploads\/img_68aaa6f6d0c6e_t-shirt-polo-clip-art-png-favpng-005wXm0hPazAT8p4P5qafRimB.jpg"]Header - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+    [user_id] => 3
+    [role] => seller
+    [verified] => approved
+)
+Header - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+)
+Before login - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+)
+Header - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+)
+Before login - Session ID: 18memqrv0brc2hcij7sso5e648, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: esr1g2vjoudrqf0e014ac0d8ibHeader - Session ID: esr1g2vjoudrqf0e014ac0d8ib, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: esr1g2vjoudrqf0e014ac0d8ib, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: esr1g2vjoudrqf0e014ac0d8ib, Session: Array
+(
+    [user_id] => 1
+    [role] => admin
+    [verified] => approved
+)
+Header - Session ID: 7qi5osvenemm6h978tv6qiquef, Session: Array
+(
+)
+Before login - Session ID: 7qi5osvenemm6h978tv6qiquef, Session: Array
+(
+)
+Header - Session ID: 7qi5osvenemm6h978tv6qiquef, Session: Array
+(
+)
+Before login - Session ID: 7qi5osvenemm6h978tv6qiquef, Session: Array
+(
+)
+Login failed - Email: a@gmail.comHeader - Session ID: 7qi5osvenemm6h978tv6qiquef, Session: Array
+(
+)
+Database connection error: SQLSTATE[HY000] [1049] Unknown database 'boys_clothing'Before login - Session ID: cn5cpriuelcadevfl62r6i8bvc, Session: Array
+(
+)
+Before login - Session ID: cn5cpriuelcadevfl62r6i8bvc, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: kl0pdhnhqn2i2kgknn6hpnbpboBefore login - Session ID: kl0pdhnhqn2i2kgknn6hpnbpbo, Session: Array
+(
+)
+Before login - Session ID: kl0pdhnhqn2i2kgknn6hpnbpbo, Session: Array
+(
+)
+Login successful - User ID: 7, Role: buyer, Verified: approved, Session ID: 9a1g6vaifseo9mq4qgu0cbgvkiBefore login - Session ID: 9a1g6vaifseo9mq4qgu0cbgvki, Session: Array
+(
+)
+Before login - Session ID: 9a1g6vaifseo9mq4qgu0cbgvki, Session: Array
+(
+)
+Before login - Session ID: 9a1g6vaifseo9mq4qgu0cbgvki, Session: Array
+(
+)
+Login successful - User ID: 8, Role: seller, Verified: pending, Session ID: 1vjnqd4mjjshbdrts6bp024sitBefore login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => pending
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+)
+Before login - Session ID: 1vjnqd4mjjshbdrts6bp024sit, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: no9bobhbpbeifru9lnqqa771i6Before login - Session ID: no9bobhbpbeifru9lnqqa771i6, Session: Array
+(
+)
+Before login - Session ID: no9bobhbpbeifru9lnqqa771i6, Session: Array
+(
+)
+Login successful - User ID: 3, Role: seller, Verified: approved, Session ID: gegtkv18v90cv094pal45nuaknBefore login - Session ID: gegtkv18v90cv094pal45nuakn, Session: Array
+(
+)
+Before login - Session ID: gegtkv18v90cv094pal45nuakn, Session: Array
+(
+)
+Login failed - Email: admin@boysclothing.comBefore login - Session ID: gegtkv18v90cv094pal45nuakn, Session: Array
+(
+)
+Login failed - Email: admin@boysclothing.comBefore login - Session ID: gegtkv18v90cv094pal45nuakn, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 90ib8r7211cermhpffbr9hhc20Before login - Session ID: 90ib8r7211cermhpffbr9hhc20, Session: Array
+(
+)
+Before login - Session ID: 90ib8r7211cermhpffbr9hhc20, Session: Array
+(
+)
+Login successful - User ID: 8, Role: seller, Verified: approved, Session ID: jept30r4ju2a9tpkui51g4hsr4Before login - Session ID: jept30r4ju2a9tpkui51g4hsr4, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: jept30r4ju2a9tpkui51g4hsr4, Session: Array
+(
+    [user_id] => 8
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: oj7s1gm9sk8n0ltbo1ngj7vc0nBefore login - Session ID: n3taf5qjeob851ic1ggg2prhld, Session: Array
+(
+)
+Before login - Session ID: n3taf5qjeob851ic1ggg2prhld, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 1v2s97ko26fng0k56ip99hmvraBefore login - Session ID: 1v2s97ko26fng0k56ip99hmvra, Session: Array
+(
+)
+Before login - Session ID: 1v2s97ko26fng0k56ip99hmvra, Session: Array
+(
+)
+Login successful - User ID: 9, Role: seller, Verified: pending, Session ID: n21un2ps54l5ems6ld2ruo25a2Before login - Session ID: n21un2ps54l5ems6ld2ruo25a2, Session: Array
+(
+)
+Before login - Session ID: n21un2ps54l5ems6ld2ruo25a2, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: mtiq3lijkdafriq85t9m6qpif2Before login - Session ID: mtiq3lijkdafriq85t9m6qpif2, Session: Array
+(
+)
+Before login - Session ID: mtiq3lijkdafriq85t9m6qpif2, Session: Array
+(
+)
+Login successful - User ID: 9, Role: seller, Verified: approved, Session ID: be96hq3unems5q4j7mcfarp2oaBefore login - Session ID: be96hq3unems5q4j7mcfarp2oa, Session: Array
+(
+)
+Before login - Session ID: be96hq3unems5q4j7mcfarp2oa, Session: Array
+(
+)
+Login successful - User ID: 10, Role: seller, Verified: pending, Session ID: de07t20huk63jnsubgn4ttbj92Before login - Session ID: de07t20huk63jnsubgn4ttbj92, Session: Array
+(
+)
+Before login - Session ID: de07t20huk63jnsubgn4ttbj92, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: o8eupjcsemk15ohqt4m8g19heeBefore login - Session ID: o8eupjcsemk15ohqt4m8g19hee, Session: Array
+(
+)
+Before login - Session ID: o8eupjcsemk15ohqt4m8g19hee, Session: Array
+(
+)
+Login successful - User ID: 10, Role: seller, Verified: approved, Session ID: 0kqifh75bneo5shdrhtnguokbpBefore login - Session ID: 0kqifh75bneo5shdrhtnguokbp, Session: Array
+(
+)
+Before login - Session ID: 0kqifh75bneo5shdrhtnguokbp, Session: Array
+(
+)
+Before login - Session ID: 0kqifh75bneo5shdrhtnguokbp, Session: Array
+(
+)
+Login successful - User ID: 11, Role: buyer, Verified: approved, Session ID: dmb8prvdv2q51mgl19erv04f54Before login - Session ID: dmb8prvdv2q51mgl19erv04f54, Session: Array
+(
+)
+Before login - Session ID: dmb8prvdv2q51mgl19erv04f54, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: ogkv9q1nphq959mmkedf526c8vBefore login - Session ID: ogkv9q1nphq959mmkedf526c8v, Session: Array
+(
+)
+Before login - Session ID: ogkv9q1nphq959mmkedf526c8v, Session: Array
+(
+)
+Before login - Session ID: ogkv9q1nphq959mmkedf526c8v, Session: Array
+(
+)
+Before login - Session ID: ogkv9q1nphq959mmkedf526c8v, Session: Array
+(
+)
+Login failed - Email: mdalamin09621@gmail.comBefore login - Session ID: ogkv9q1nphq959mmkedf526c8v, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: usa58vk3sj6h5b5ud1chirmu1gBefore login - Session ID: gaq7elj761rsddpuavpr64q7eu, Session: Array
+(
+)
+Before login - Session ID: gaq7elj761rsddpuavpr64q7eu, Session: Array
+(
+)
+Login successful - User ID: 10, Role: seller, Verified: approved, Session ID: 6cl1sqojg7u7ir2hfjutk9dg5nBefore login - Session ID: 89t991mb4v8bu9djth1ie8ohtb, Session: Array
+(
+)
+Before login - Session ID: 89t991mb4v8bu9djth1ie8ohtb, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: 2c2ri5tijvb35hkgpu8n49a4anBefore login - Session ID: 2c2ri5tijvb35hkgpu8n49a4an, Session: Array
+(
+)
+Before login - Session ID: 2c2ri5tijvb35hkgpu8n49a4an, Session: Array
+(
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: 2c2ri5tijvb35hkgpu8n49a4an, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: nudo597j8ldj178g2jrbj0hsahBefore login - Session ID: nudo597j8ldj178g2jrbj0hsah, Session: Array
+(
+)
+Before login - Session ID: nudo597j8ldj178g2jrbj0hsah, Session: Array
+(
+)
+Login successful - User ID: 4, Role: buyer, Verified: approved, Session ID: gppos07417vu1k0n4rnr9amispBefore login - Session ID: gi710ktr9u3j9h60slf0r929ao, Session: Array
+(
+)
+Before login - Session ID: gi710ktr9u3j9h60slf0r929ao, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: r1gfr0gcqsnfdsh8ronphhl3nmBefore login - Session ID: k7n1ujv66ld58gfaj52o4d8972, Session: Array
+(
+)
+Before login - Session ID: k7n1ujv66ld58gfaj52o4d8972, Session: Array
+(
+)
+Login successful - User ID: 10, Role: seller, Verified: approved, Session ID: sgk317ho2m1l3tg73emlrs1o4sBefore login - Session ID: sgk317ho2m1l3tg73emlrs1o4s, Session: Array
+(
+    [user_id] => 10
+    [role] => seller
+    [verified] => approved
+)
+Before login - Session ID: sgk317ho2m1l3tg73emlrs1o4s, Session: Array
+(
+    [user_id] => 10
+    [role] => seller
+    [verified] => approved
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: sgk317ho2m1l3tg73emlrs1o4s, Session: Array
+(
+    [user_id] => 10
+    [role] => seller
+    [verified] => approved
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: sgk317ho2m1l3tg73emlrs1o4s, Session: Array
+(
+    [user_id] => 10
+    [role] => seller
+    [verified] => approved
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: h3g706t1qvn9n35d465t4c5hfcBefore login - Session ID: h3g706t1qvn9n35d465t4c5hfc, Session: Array
+(
+)
+Before login - Session ID: h3g706t1qvn9n35d465t4c5hfc, Session: Array
+(
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: h3g706t1qvn9n35d465t4c5hfc, Session: Array
+(
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: h3g706t1qvn9n35d465t4c5hfc, Session: Array
+(
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: h3g706t1qvn9n35d465t4c5hfc, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: qi2uus7n5mil3q6p8mvn1hs7utDatabase connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused itDatabase connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused itDatabase connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused itDatabase connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused itDatabase connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused itDatabase connection error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused itBefore login - Session ID: g1ltm7pv4jsugrmdnkm72a44lo, Session: Array
+(
+)
+Before login - Session ID: g1ltm7pv4jsugrmdnkm72a44lo, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: jdgu46i0igi8nr3sqvs019nduaBefore login - Session ID: jdgu46i0igi8nr3sqvs019ndua, Session: Array
+(
+)
+Before login - Session ID: jdgu46i0igi8nr3sqvs019ndua, Session: Array
+(
+)
+Login successful - User ID: 10, Role: seller, Verified: approved, Session ID: 22l7ud249u5hoqaqacso1v3a9kBefore login - Session ID: 22l7ud249u5hoqaqacso1v3a9k, Session: Array
+(
+)
+Before login - Session ID: 22l7ud249u5hoqaqacso1v3a9k, Session: Array
+(
+)
+Login successful - User ID: 2, Role: buyer, Verified: approved, Session ID: 80rckr97g8eeikrkkot7oafpdrBefore login - Session ID: 80rckr97g8eeikrkkot7oafpdr, Session: Array
+(
+)
+Before login - Session ID: 80rckr97g8eeikrkkot7oafpdr, Session: Array
+(
+)
+Login successful - User ID: 13, Role: buyer, Verified: approved, Session ID: od24vtihh747iu7s5n7v91oqb4Before login - Session ID: od24vtihh747iu7s5n7v91oqb4, Session: Array
+(
+)
+Before login - Session ID: od24vtihh747iu7s5n7v91oqb4, Session: Array
+(
+)
+Login successful - User ID: 14, Role: seller, Verified: pending, Session ID: h9929lg346q2emupurhsvnrfcvBefore login - Session ID: h9929lg346q2emupurhsvnrfcv, Session: Array
+(
+)
+Before login - Session ID: h9929lg346q2emupurhsvnrfcv, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: feo06it5c5kpb68609g2g14iglBefore login - Session ID: feo06it5c5kpb68609g2g14igl, Session: Array
+(
+)
+Before login - Session ID: feo06it5c5kpb68609g2g14igl, Session: Array
+(
+)
+Login successful - User ID: 14, Role: seller, Verified: rejected, Session ID: dcj1omo2ica4bguucb43v2k2coBefore login - Session ID: dcj1omo2ica4bguucb43v2k2co, Session: Array
+(
+)
+Before login - Session ID: dcj1omo2ica4bguucb43v2k2co, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: eaap59osq6ahgovr2m96499bdtBefore login - Session ID: eaap59osq6ahgovr2m96499bdt, Session: Array
+(
+)
+Before login - Session ID: eaap59osq6ahgovr2m96499bdt, Session: Array
+(
+)
+Login successful - User ID: 14, Role: seller, Verified: approved, Session ID: ft93ucekk68lj0p0a88v5oq7t0Before login - Session ID: ft93ucekk68lj0p0a88v5oq7t0, Session: Array
+(
+)
+Before login - Session ID: ft93ucekk68lj0p0a88v5oq7t0, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: ih5md1hnipn7suqvi0is3je7ghBefore login - Session ID: ih5md1hnipn7suqvi0is3je7gh, Session: Array
+(
+)
+Before login - Session ID: ih5md1hnipn7suqvi0is3je7gh, Session: Array
+(
+)
+Login successful - User ID: 10, Role: seller, Verified: approved, Session ID: r7sj0316lvuu7uasi3uprar1ffBefore login - Session ID: r7sj0316lvuu7uasi3uprar1ff, Session: Array
+(
+)
+Before login - Session ID: r7sj0316lvuu7uasi3uprar1ff, Session: Array
+(
+)
+Login failed - Email: mdalamin09621@gmail.comBefore login - Session ID: r7sj0316lvuu7uasi3uprar1ff, Session: Array
+(
+)
+Login successful - User ID: 13, Role: buyer, Verified: approved, Session ID: hrar8isr2manjflm32tj7pkri2Before login - Session ID: hrar8isr2manjflm32tj7pkri2, Session: Array
+(
+)
+Before login - Session ID: 6vlaujnmh3152tb5ssu1clc072, Session: Array
+(
+)
+Before login - Session ID: 6vlaujnmh3152tb5ssu1clc072, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: nask27sfiholo5ighul7o97667Before login - Session ID: nask27sfiholo5ighul7o97667, Session: Array
+(
+)
+Before login - Session ID: nask27sfiholo5ighul7o97667, Session: Array
+(
+)
+Login failed - Email: tamim09621@gmail.comBefore login - Session ID: nask27sfiholo5ighul7o97667, Session: Array
+(
+)
+Login successful - User ID: 13, Role: buyer, Verified: approved, Session ID: 53ht107uo03ah5ffvpe9vns82gBefore login - Session ID: 53ht107uo03ah5ffvpe9vns82g, Session: Array
+(
+)
+Before login - Session ID: 53ht107uo03ah5ffvpe9vns82g, Session: Array
+(
+)
+Login successful - User ID: 14, Role: seller, Verified: approved, Session ID: udd5h23jt2umvrsdd79t2qrkfmBefore login - Session ID: udd5h23jt2umvrsdd79t2qrkfm, Session: Array
+(
+)
+Before login - Session ID: udd5h23jt2umvrsdd79t2qrkfm, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: v2q7fktjnkr9sqnnn2fvff64maBefore login - Session ID: v2q7fktjnkr9sqnnn2fvff64ma, Session: Array
+(
+)
+Before login - Session ID: v2q7fktjnkr9sqnnn2fvff64ma, Session: Array
+(
+)
+Login successful - User ID: 14, Role: seller, Verified: approved, Session ID: gqff9dnod7vq7c4jjmi4ma473qBefore login - Session ID: gqff9dnod7vq7c4jjmi4ma473q, Session: Array
+(
+)
+Before login - Session ID: gqff9dnod7vq7c4jjmi4ma473q, Session: Array
+(
+)
+Login successful - User ID: 1, Role: admin, Verified: approved, Session ID: jbgrt2flb9318e83fhp5pui0vvBefore login - Session ID: teu5m8kcr8lrs4e4fhso8qpc27, Session: Array
+(
+)
